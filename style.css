@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+    background-color: lightpink;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+#novel
+{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: oblique;
+    font: optional;
+    font-size: 100px;
+}
+
+p
+{
+    font-family: cursive;
+    font-style: inherit;
+}
+
+.fa fa-sort-desc
+{
+    text-align: justify;
+}
+
